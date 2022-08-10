@@ -1,2 +1,8 @@
-# Estrutura-de-layout
- Quinto desafio do curso INPUT da Codar.me
+# Estrutura de layout
+
+ Quinto desafio do Codar.me INPUT 🚀
+
+#📸
+
+
+![Screenshot](layouts.png)
