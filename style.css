@@ -1,0 +1,46 @@
+body, html {
+    font-family: Verdana, Tahoma, sans-serif;
+    margin: 0;
+    height: 100%;
+}
+
+#container {
+    background: lightgray;
+    display: flex;
+    height: 100%;
+} 
+
+aside {
+    background: #ADFFF4;;
+    padding: 16px;
+    width: 80px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+header {
+    background: #F8B4DD;
+    padding: 16px;
+}
+
+#content {
+    background: #ADEBFF;
+    padding: 16px;
+    flex: 1;
+}
+
+footer { 
+    background: #FEF4AE;
+    padding: 16px;
+}
+
+
+
+
+
+
+
